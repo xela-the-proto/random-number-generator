@@ -20,8 +20,7 @@ int main()
 
     Sleep(3000);
 
-    //we check if the user is sure of how long the number should be
+    //we check if the user is sure of the length
 
     confirmLength(randomCharacters,confirmation);
-
 }

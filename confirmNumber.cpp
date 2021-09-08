@@ -39,7 +39,7 @@ void confirmLength(int randomCharacters,int confirmation){
     }
     cout << " here is your random nuber / seed happy playing!" << endl;
 
-    //wait 10 seconds then shut down the program
+    //wait 10 seconds then shut down
 
     cout << "closing in 10 seconds!";
 

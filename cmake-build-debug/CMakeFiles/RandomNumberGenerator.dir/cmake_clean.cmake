@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj"
   "CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
   "RandomNumberGenerator.exe"
   "RandomNumberGenerator.exe.manifest"

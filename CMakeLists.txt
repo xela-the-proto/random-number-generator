@@ -3,4 +3,4 @@ project(RandomNumberGenerator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(RandomNumberGenerator main.cpp header.h confirmNumber.cpp)
+add_executable(RandomNumberGenerator main.cpp)

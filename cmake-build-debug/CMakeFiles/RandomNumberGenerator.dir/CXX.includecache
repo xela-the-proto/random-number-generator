@@ -6,25 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/progetti c ++/RandomNumberGenerator/confirmNumber.cpp
+C:/Users/thega/CLionProjects/random-number-generator/main.cpp
 iostream
 -
 ctime
 -
 windows.h
 -
-header.h
-D:/progetti c ++/RandomNumberGenerator/header.h
-
-D:/progetti c ++/RandomNumberGenerator/header.h
-
-D:/progetti c ++/RandomNumberGenerator/main.cpp
-iostream
--
-ctime
--
-windows.h
--
-header.h
-D:/progetti c ++/RandomNumberGenerator/header.h
 

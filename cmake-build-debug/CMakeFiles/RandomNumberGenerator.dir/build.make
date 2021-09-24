@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\thega\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\thega\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\thega\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\thega\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\progetti c ++\RandomNumberGenerator"
+CMAKE_SOURCE_DIR = C:\Users\thega\CLionProjects\random-number-generator
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\progetti c ++\RandomNumberGenerator\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RandomNumberGenerator.dir/depend.make
@@ -67,45 +67,30 @@ include CMakeFiles/RandomNumberGenerator.dir/flags.make
 
 CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj: CMakeFiles/RandomNumberGenerator.dir/flags.make
 CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\progetti c ++\RandomNumberGenerator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RandomNumberGenerator.dir\main.cpp.obj -c "D:\progetti c ++\RandomNumberGenerator\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RandomNumberGenerator.dir\main.cpp.obj -c C:\Users\thega\CLionProjects\random-number-generator\main.cpp
 
 CMakeFiles/RandomNumberGenerator.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RandomNumberGenerator.dir/main.cpp.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\progetti c ++\RandomNumberGenerator\main.cpp" > CMakeFiles\RandomNumberGenerator.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\thega\CLionProjects\random-number-generator\main.cpp > CMakeFiles\RandomNumberGenerator.dir\main.cpp.i
 
 CMakeFiles/RandomNumberGenerator.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RandomNumberGenerator.dir/main.cpp.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\progetti c ++\RandomNumberGenerator\main.cpp" -o CMakeFiles\RandomNumberGenerator.dir\main.cpp.s
-
-CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj: CMakeFiles/RandomNumberGenerator.dir/flags.make
-CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj: ../confirmNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\progetti c ++\RandomNumberGenerator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RandomNumberGenerator.dir\confirmNumber.cpp.obj -c "D:\progetti c ++\RandomNumberGenerator\confirmNumber.cpp"
-
-CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\progetti c ++\RandomNumberGenerator\confirmNumber.cpp" > CMakeFiles\RandomNumberGenerator.dir\confirmNumber.cpp.i
-
-CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\progetti c ++\RandomNumberGenerator\confirmNumber.cpp" -o CMakeFiles\RandomNumberGenerator.dir\confirmNumber.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\thega\CLionProjects\random-number-generator\main.cpp -o CMakeFiles\RandomNumberGenerator.dir\main.cpp.s
 
 # Object files for target RandomNumberGenerator
 RandomNumberGenerator_OBJECTS = \
-"CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj" \
-"CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj"
+"CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
 
 # External object files for target RandomNumberGenerator
 RandomNumberGenerator_EXTERNAL_OBJECTS =
 
 RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj
-RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj
 RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/build.make
 RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/linklibs.rsp
 RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/objects1.rsp
 RandomNumberGenerator.exe: CMakeFiles/RandomNumberGenerator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\progetti c ++\RandomNumberGenerator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable RandomNumberGenerator.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable RandomNumberGenerator.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RandomNumberGenerator.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -117,6 +102,6 @@ CMakeFiles/RandomNumberGenerator.dir/clean:
 .PHONY : CMakeFiles/RandomNumberGenerator.dir/clean
 
 CMakeFiles/RandomNumberGenerator.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\progetti c ++\RandomNumberGenerator" "D:\progetti c ++\RandomNumberGenerator" "D:\progetti c ++\RandomNumberGenerator\cmake-build-debug" "D:\progetti c ++\RandomNumberGenerator\cmake-build-debug" "D:\progetti c ++\RandomNumberGenerator\cmake-build-debug\CMakeFiles\RandomNumberGenerator.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\thega\CLionProjects\random-number-generator C:\Users\thega\CLionProjects\random-number-generator C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug C:\Users\thega\CLionProjects\random-number-generator\cmake-build-debug\CMakeFiles\RandomNumberGenerator.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RandomNumberGenerator.dir/depend
 

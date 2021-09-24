@@ -8,8 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/progetti c ++/RandomNumberGenerator/confirmNumber.cpp" "D:/progetti c ++/RandomNumberGenerator/cmake-build-debug/CMakeFiles/RandomNumberGenerator.dir/confirmNumber.cpp.obj"
-  "D:/progetti c ++/RandomNumberGenerator/main.cpp" "D:/progetti c ++/RandomNumberGenerator/cmake-build-debug/CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
+  "C:/Users/thega/CLionProjects/random-number-generator/main.cpp" "C:/Users/thega/CLionProjects/random-number-generator/cmake-build-debug/CMakeFiles/RandomNumberGenerator.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

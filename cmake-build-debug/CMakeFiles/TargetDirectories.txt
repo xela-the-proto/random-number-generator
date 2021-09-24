@@ -1,3 +1,3 @@
-D:/progetti c ++/RandomNumberGenerator/cmake-build-debug/CMakeFiles/RandomNumberGenerator.dir
-D:/progetti c ++/RandomNumberGenerator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/progetti c ++/RandomNumberGenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/thega/CLionProjects/random-number-generator/cmake-build-debug/CMakeFiles/RandomNumberGenerator.dir
+C:/Users/thega/CLionProjects/random-number-generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thega/CLionProjects/random-number-generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
